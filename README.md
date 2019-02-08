@@ -26,6 +26,10 @@ The following **bonus** features are implemented:
 * [x] MVC pattern is implemented
 * [x] Heroes tab feature allows user to search for any hero and tweet about it (Its a feature just developed to demonstrate API usage. [Marvel](https://developer.marvel.com/) API is used for it)
 
+## Screenshot
+
+![tweet](https://user-images.githubusercontent.com/37753430/52497456-bd750980-2b9b-11e9-9fe6-748fc7548f83.png)
+
 
 ## License
 
